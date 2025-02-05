@@ -1,6 +1,6 @@
 # Quizz_App
 
-# ScreenShots App
+# ScreenShots
 
 <table>
   <tr>

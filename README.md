@@ -1,16 +1,8 @@
-# quizz_app
+# Quizz_App
 
-A new Flutter project.
+# ScreenShots App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Splash_Quizz](https://github.com/user-attachments/assets/5e48f3fa-d0cb-46a6-bf52-30f3a87f79c2)
+![Home_Quizz](https://github.com/user-attachments/assets/c428e954-eafa-4743-b456-32927cd7391e)
+![Available_task_Quizz](https://github.com/user-attachments/assets/920aaee8-d390-47ab-94dd-c14c2e16fff5)
+![Quizz_Task_screen](https://github.com/user-attachments/assets/a0e1a1fa-0453-44d1-80d8-912ee8bf5b05)
